@@ -1,0 +1,16 @@
+.list {
+  width: 400px;
+  font-size: 18px;
+  border-top: 1px solid black;
+}
+.userItem {
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 50px;
+  align-items: center;
+  padding-left: 20px;
+  border: 1px solid black;
+  border-top: none;
+  cursor: pointer;
+}
